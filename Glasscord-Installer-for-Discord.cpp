@@ -24,6 +24,7 @@ void log(std::string, int message_lvl); //Log message in console with a message 
 
 int main()
 {
+    // Initialize console decorations
     eku::concolinit();
     SetConsoleTitle(L"Glasscord Installer for Discord by Rikimbili");
 	
@@ -66,10 +67,11 @@ void GetDiscordPath(std::string &app_path)
 void GlasscordDownload(std::string &app_path)
 {
     log("Downloading glasscord.asar from github repository...", 2);
+
     LPCWSTR download_url = L"https://github.com/AryToNeX/Glasscord/releases/download/v1.0.1/glasscord.asar";
     LPCWSTR download_path = (LPCWSTR)(app_path + "\\glasscord.asar").c_str();
 
-    URLDownloadToFile(NULL, download_url, download_path, 0, NULL);
+    URLDownloadToFile(NULL, download_url, download_path, 0, NULL); // TODO: Perform error handling on this part
 }
 
 int IsDiscordInstalled(std::string app_path)
