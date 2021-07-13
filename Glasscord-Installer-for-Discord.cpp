@@ -1,3 +1,4 @@
+// TODO: Start up discord after finishing
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -67,8 +68,8 @@ void CheckDiscordRunning()
                 std::cout << '\b' << ' ' << '\b';
             }
         }
+        std::cout << std::endl;
     }
-    std::cout << std::endl;
 }
 
 bool FindProcessIDByName(const std::wstring& processName)
