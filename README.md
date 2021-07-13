@@ -6,7 +6,8 @@ Note: In releases you can find two versions: .sfx.exe (packaged .exe that lets y
 * Discord Canary (Windows only)
 * Powercord
 
-# Installation
-1. Download the compressed .sfx.exe in releases or the .exe
+# Installation for the Installer ¯\_(ツ)_/¯
+Installation steps for the .sfx.exe. If you download the .exe instead just run it and the installer will initiate
+1. Download the compressed .sfx.exe in releases
 2. Either double click it to extract it (creating a desktop shortcut automatically) or right click extract with winrar anywhere you like
 3. Finally, execute Glasscord-Installer-for-Discord.exe or the desktop shortcut created
