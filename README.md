@@ -10,4 +10,4 @@ Note: In releases you can find two versions: .sfx.exe (packaged .exe that lets y
 Installation steps for the .sfx.exe. If you download the .exe instead just run it and the installer will initiate
 1. Download the compressed .sfx.exe in releases
 2. Either double click it to extract it (creating a desktop shortcut automatically) or right click and extract with winrar anywhere you like
-3. Finally, execute Glasscord-Installer-for-Discord.exe or the desktop shortcut created
+3. Finally, fully close Discord and execute Glasscord-Installer-for-Discord.exe or the desktop shortcut created
