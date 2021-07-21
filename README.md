@@ -6,7 +6,7 @@ Note: In releases you can find two versions: .sfx.exe (packaged .exe that lets y
 * Discord Canary (Windows only)
 * Powercord
 
-# Installation Steps for the Installer -_-
+# Installation Steps for the Installer
 Installation steps for the .sfx.exe. If you download the .exe instead just run it and the installer will initiate
 1. Download the compressed .sfx.exe in releases
 2. Either double click it to extract it (creating a desktop shortcut automatically) or right click and extract with winrar anywhere you like
