@@ -2,7 +2,7 @@
 # Description
 This is a basic installer made in C++ for Powercord themes that use Glasscord. Feel free tu report any issues you encounter.  
 For some reason this gets flagged by many antivirus software so I would recommend you add an exception to the .exe or compile it from source  
-**Note:** In releases you can find two versions: .sfx.exe (packaged .exe that lets you choose extraction location and auto-creates a desktop shortcut for the program) and .exe which is the standalone binaries.  
+**Note:** In releases you can find two versions: .sfx.exe (packaged .exe that lets you choose extraction location and auto-creates a desktop shortcut for the program) and .exe which is the standalone program binaries.  
 # Requirements
 * Discord Canary (Windows only)
 * Powercord
